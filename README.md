@@ -1,16 +1,12 @@
-### Hi there 👋
+## \<!-- START FILE -->
+### Hey Im... not phantom and here is a little bit about me ✨
 
-<!--
-**ImNotPhantom/imnotphantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning html/css/js 🔴🔵🟡
+- 📫 How to reach me: contact@imnotphantom.tk 📬
+- 😄 Pronouns: He/Him 👾
+- ⚡ Fun fact: I like coding 💻
+- 📝 My Favorite Emoji: 👺 < looks funi
+- 🍝 Favorite Food: anything
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Youtube: [ImNotPhantom](https://youtube.com/c/ImNotPhantom) 🟥Subscribe⬜
+## \<!-- END OF FILE -->
