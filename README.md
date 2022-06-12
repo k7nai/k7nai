@@ -1,4 +1,3 @@
-## \<!-- START FILE -->
 ### Hey Im... not phantom and here is a little bit about me ✨
 
 - 🌱 I’m currently learning html/css/js 🔴🔵🟡
@@ -9,4 +8,3 @@
 - 🍝 Favorite Food: anything
 
 #### Youtube: [ImNotPhantom](https://youtube.com/c/ImNotPhantom) 🟥Subscribe⬜
-## \<!-- END OF FILE -->
