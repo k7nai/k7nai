@@ -1,4 +1,4 @@
-### Hey Im... not phantom and here is a little bit about me ✨
+### yoo, im k7nai and here is a little bit about me ✨
 
 - 🌱 I’m currently learning html/css/js 🔴🔵🟡
 - 📫 How to reach me: contact@imnotphantom.tk 📬
